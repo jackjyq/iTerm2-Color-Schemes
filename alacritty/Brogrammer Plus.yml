@@ -1,0 +1,29 @@
+# Colors (Brogrammer Plus)
+colors:
+  bright:
+    black: '#373737'
+    blue: '#48c0ff'
+    cyan: '#51f1ff'
+    green: '#3bfb9d'
+    magenta: '#9ea7ff'
+    red: '#ff5542'
+    white: '#ffffff'
+    yellow: '#ffd60d'
+  cursor:
+    cursor: '#ffffff'
+    text: '#121212'
+  normal:
+    black: '#121212'
+    blue: '#3498db'
+    cyan: '#3cc9d6'
+    green: '#2ecc71'
+    magenta: '#6c71c4'
+    red: '#e74c3c'
+    white: '#fbfbfb'
+    yellow: '#f1c40f'
+  primary:
+    background: '#121212'
+    foreground: '#fbfbfb'
+  selection:
+    background: '#264f78'
+    text: '#fcfcfc'

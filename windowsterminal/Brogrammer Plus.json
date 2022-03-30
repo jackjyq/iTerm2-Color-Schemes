@@ -1,0 +1,23 @@
+{
+  "name": "Brogrammer Plus",
+  "black": "#121212",
+  "red": "#e74c3c",
+  "green": "#2ecc71",
+  "yellow": "#f1c40f",
+  "blue": "#3498db",
+  "purple": "#6c71c4",
+  "cyan": "#3cc9d6",
+  "white": "#fbfbfb",
+  "brightBlack": "#373737",
+  "brightRed": "#ff5542",
+  "brightGreen": "#3bfb9d",
+  "brightYellow": "#ffd60d",
+  "brightBlue": "#48c0ff",
+  "brightPurple": "#9ea7ff",
+  "brightCyan": "#51f1ff",
+  "brightWhite": "#ffffff",
+  "background": "#121212",
+  "foreground": "#fbfbfb",
+  "cursorColor": "#ffffff",
+  "selectionBackground": "#264f78"
+}
